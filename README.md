@@ -35,11 +35,3 @@ Siempre aprendiendo algo nuevo y construyendo proyectos que resuelven problemas 
 🎫 **TechFlow** — Sistema de gestión de tickets de soporte TI  
 Java EE · Servlets · JSP/JSTL · MySQL · Bootstrap  
 ➡️ [Ver repositorio](https://github.com/AshlyGalvez/techflow-helpdesk)
-
----
-
-### 📊 Mis estadísticas de GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AshlyGalvez&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshlyGalvez&layout=compact&theme=tokyonight&hide_border=true)
